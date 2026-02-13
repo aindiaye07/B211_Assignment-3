@@ -22,22 +22,20 @@ Limitations
 Results:
 - There is a very strong positive correlation between petal length and petal width (> 0.95), and a strong positive correlation between petal length and sepal length.
 Measurements:
-- Setosa
-Sepal Length = 5.01 cm
-Sepal Width = 3.42 cm
-Petal Length = 1.46 cm
-Petal Width = 0.24 cm
+Setosa:
+- Sepal Length = 5.01 cm
+- Sepal Width = 3.42 cm
+- Petal Length = 1.46 cm
+- Petal Width = 0.24 cm
 
-- Veriscolor
-Sepal Length = 5.94 cm
-Sepal Width = 2.77 cm
-Petal Length = 4.26 cm
-Petal Width = 1.33 cm
+Veriscolor:
+- Sepal Length = 5.94 cm
+- Sepal Width = 2.77 cm
+- Petal Length = 4.26 cm
+- Petal Width = 1.33 cm
 
-- Virginica
-Sepal Length = 6.59 cm
-Sepal Width = 2.97 cm
-Petal Length = 5.55 cm
-Petal Width = 2.03 cm
-
-Setosa has the smallest petals while Virginica has the largest. Setosa has the lowest variance while Virginica has higher variance in sepal length and petal length compared to the others. Versicolor and Virginica are least distinct from each other, as their data distributions overlapping in petal measurements.
+Virginica:
+- Sepal Length = 6.59 cm
+- Sepal Width = 2.97 cm
+- Petal Length = 5.55 cm
+- Petal Width = 2.03 cm
