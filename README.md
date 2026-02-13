@@ -21,24 +21,31 @@ Limitations:
 
 Results:
 - There is a very strong positive correlation between petal length and petal width (> 0.95), and a strong positive correlation between petal length and sepal length.
+- Petal Length & Petal Width: ~0.96
+- Sepal Length & Petal Length: ~0.87
+- Sepal Length & Petal Width: ~0.82
+- Petal Length & Sepal Width: ~-0.43
+- Sepal Length & Sepal Width: ~-0.11
+- Petal Width & Sepal Width: ~-0.37
+
 Measurements:
 
-Setosa:
-- Sepal Length = 5.01 cm
-- Sepal Width = 3.42 cm
-- Petal Length = 1.46 cm
-- Petal Width = 0.24 cm
+Average of Each Variable (All Species):
+- Sepal Length: 5.84 cm
+- Sepal Width: 3.06 cm
+- Petal Length: 3.76 cm
+- Petal Width: 1.20 cm
 
-Veriscolor:
-- Sepal Length = 5.94 cm
-- Sepal Width = 2.77 cm
-- Petal Length = 4.26 cm
-- Petal Width = 1.33 cm
+Median of Each Variable (All Species):
+- Sepal Length: 5.80 cm
+- Sepal Width: 3.00 cm
+- Petal Length: 4.35 cm
+- Petal Width: 1.30 cm
 
-Virginica:
-- Sepal Length = 6.59 cm
-- Sepal Width = 2.97 cm
-- Petal Length = 5.55 cm
-- Petal Width = 2.03 cm
+Standard Deviation of Each Variable (All Species):
+- Sepal Length: 0.828 cm
+- Sepal Width: 0.434 cm
+- Petal Length: 1.765 cm
+- Petal Width: 0.762 cm
 
 Iris versicolor and Iris virginica are the most similar. Although virginica is generally larger, their measurements overlap, making them harder to distinguish than Iris setosa. Iris setosa is the least similar to the other two, as it has much smaller petal lengths and width compared to Versicolor and Virginica.
