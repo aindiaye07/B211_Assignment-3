@@ -40,3 +40,5 @@ Virginica:
 - Sepal Width = 2.97 cm
 - Petal Length = 5.55 cm
 - Petal Width = 2.03 cm
+
+Iris versicolor and Iris virginica are the most similar. Although virginica is generally larger, their measurements overlap, making them harder to distinguish than Iris setosa. Iris setosa is the least similar to the other two, as it has much smaller petal lengths and width compared to Versicolor and Virginica.
