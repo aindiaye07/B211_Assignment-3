@@ -14,7 +14,7 @@ Methods:
 - `calculate_median()`= Returns median values grouped by species.
 - `calculate_std_dev()`= Returns standard deviation grouped by species.
 
-Limitations
+Limitations:
 - The dataset assumes only 50 samples per species.
 - The analysis relies on linear assumptions (Pearson correlation).
 - Data represents only three specific Iris species.
